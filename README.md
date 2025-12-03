@@ -87,18 +87,6 @@ src/com/ani/pack1/ConnectionFactory.java
 
 ---
 
-## 💡 Screenshots
-
-> *(Add screenshots folder and paste images)*  
-
-- Login Page  
-- Admin Dashboard  
-- Product Management  
-- Customer View  
-- Order Success Page  
-
----
-
 ## 🌐 Deployment
 
 This project uses **JSP + Servlet**, so it cannot run on GitHub Pages.  
