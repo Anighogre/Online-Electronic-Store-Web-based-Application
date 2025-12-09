@@ -59,7 +59,7 @@ ElectronicStore/
 
 ### 1️⃣ Clone Repository
 ```bash
-git clone https://github.com/yourusername/electronic-store.git
+git clone https://github.com/Anighogre/electronic-store.git
 ```
 
 ### 2️⃣ Import into Eclipse
